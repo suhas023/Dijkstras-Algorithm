@@ -12,3 +12,7 @@ gcc -o dijkstra  dijkstra.c  -lGL -lglut -lGLU  -lm -std=c99
 2. Select any two Nodes to form a Path.
 3. Use Mouse **Right** Button to select Source and Destrination.
 4. Press ENTER key to begin Dijkstra's Algorithm.
+
+# Screenshot
+
+![sample shot]("Dijkstras-Algorithm/images/dk503.png")
