@@ -15,4 +15,4 @@ gcc -o dijkstra  dijkstra.c  -lGL -lglut -lGLU  -lm -std=c99
 
 # Screenshot
 
-![sample shot](/images/dk503.png")
+![sample shot](/images/dk503.png?raw=true)
