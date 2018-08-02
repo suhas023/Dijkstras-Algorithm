@@ -3,6 +3,8 @@ Simulation of Dijkstra's Algorithm written in C using OpenGL graphics library.
 
 # To Compile
 gcc -o dijkstra  dijkstra.c  -lGL -lglut -lGLU  -lm -std=c99
+- make sure to install glut on your platform before compiling
+- sudo apt-get install freeglut3-dev
 
 # To Execute
 ./dijkstra
