@@ -1,6 +1,9 @@
 # Dijkstras-Algorithm
 Simulation of Dijkstra's Algorithm written in C using OpenGL graphics library.
 
+# Video on YouTube
+[![Project in Action](https://img.youtube.com/vi/rWNJS_b6p34&t=5s/0.jpg)](https://www.youtube.com/watch?v=rWNJS_b6p34&t=5s)
+
 # To Compile
 gcc -o dijkstra  dijkstra.c  -lGL -lglut -lGLU  -lm -std=c99
 - make sure to install glut on your platform before compiling
